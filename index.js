@@ -27,3 +27,5 @@ function checkOddandEven() {
 
     
 }
+//calling the function
+checkOddandEven();
